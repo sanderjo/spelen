@@ -20,3 +20,5 @@ except:
     pass
 
 print "einde"
+
+print "dit moet in Uitstapje komen"
